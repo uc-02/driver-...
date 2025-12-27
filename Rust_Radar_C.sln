@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34112.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rust_Radar_C", "Rust_Radar_C\Rust_Radar_C.vcxproj", "{C30B2E44-76B0-4A4C-B26B-2C43B4735956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release_LoadDrive|ARM = Release_LoadDrive|ARM
+		Release_LoadDrive|ARM64 = Release_LoadDrive|ARM64
+		Release_LoadDrive|x64 = Release_LoadDrive|x64
+		Release_LoadDrive|x86 = Release_LoadDrive|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Debug|ARM.ActiveCfg = Debug|ARM
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Debug|ARM.Build.0 = Debug|ARM
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Debug|ARM.Deploy.0 = Debug|ARM
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Debug|ARM64.Build.0 = Debug|ARM64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Debug|x64.ActiveCfg = Debug|x64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Debug|x64.Build.0 = Debug|x64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Debug|x64.Deploy.0 = Debug|x64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Debug|x86.ActiveCfg = Debug|Win32
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Debug|x86.Build.0 = Debug|Win32
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Debug|x86.Deploy.0 = Debug|Win32
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release_LoadDrive|ARM.ActiveCfg = Release_LoadDrive|ARM
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release_LoadDrive|ARM.Build.0 = Release_LoadDrive|ARM
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release_LoadDrive|ARM.Deploy.0 = Release_LoadDrive|ARM
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release_LoadDrive|ARM64.ActiveCfg = Release_LoadDrive|ARM64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release_LoadDrive|ARM64.Build.0 = Release_LoadDrive|ARM64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release_LoadDrive|ARM64.Deploy.0 = Release_LoadDrive|ARM64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release_LoadDrive|x64.ActiveCfg = Release_LoadDrive|x64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release_LoadDrive|x64.Build.0 = Release_LoadDrive|x64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release_LoadDrive|x64.Deploy.0 = Release_LoadDrive|x64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release_LoadDrive|x86.ActiveCfg = Release_LoadDrive|Win32
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release_LoadDrive|x86.Build.0 = Release_LoadDrive|Win32
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release_LoadDrive|x86.Deploy.0 = Release_LoadDrive|Win32
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release|ARM.ActiveCfg = Release|ARM
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release|ARM.Build.0 = Release|ARM
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release|ARM.Deploy.0 = Release|ARM
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release|ARM64.ActiveCfg = Release|ARM64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release|ARM64.Build.0 = Release|ARM64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release|ARM64.Deploy.0 = Release|ARM64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release|x64.ActiveCfg = Release|x64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release|x64.Build.0 = Release|x64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release|x64.Deploy.0 = Release|x64
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release|x86.ActiveCfg = Release|Win32
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release|x86.Build.0 = Release|Win32
+		{C30B2E44-76B0-4A4C-B26B-2C43B4735956}.Release|x86.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {019FA13D-85B2-40DE-A380-16A1D26C3A13}
+	EndGlobalSection
+EndGlobal
